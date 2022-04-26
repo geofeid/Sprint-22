@@ -1,0 +1,1 @@
+CREATE DATABASE Best_Shop;
